@@ -25,5 +25,4 @@ GOTO end
 :MCAFEEx64
 "C:\Program Files (x86)\McAfee\Common Framework\FrmInst.exe" /FORCEUNINSTALL
 GOTO end
-
 :end
